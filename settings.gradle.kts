@@ -21,4 +21,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "Happy Hour"
 include(":app")
- 
+include(":file_preview")
